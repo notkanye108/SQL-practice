@@ -1,2 +1,0 @@
-cd ~/Downloads/sqlite-tools-win32-x86-3200100/sqlite-tools-win32-x86-3200100/.
-winpty ./sqlite3.exe
